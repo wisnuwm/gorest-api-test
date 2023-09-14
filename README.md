@@ -7,4 +7,4 @@ Open your terminal and execute
 `mvn clean verify`
 
 ## How to open report
-Open file `/serenity-report/index.html` on your browser
+Compress file serenity-report.zip and Open file `/serenity-report/index.html` on your browser
